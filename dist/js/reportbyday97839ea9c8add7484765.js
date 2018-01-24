@@ -1,0 +1,1 @@
+webpackJsonp([2],[function(n,i,t){"use strict";!function(){window.alert("i am a function")}()}],[0]);
